@@ -35,13 +35,13 @@ https://drive.google.com/file/d/1L0TKOWWN13dmA5Cysw9s4uufbqDITs5E/view
 # Questions
 I don't have any additonal questions right now
 
-# GitHub Info
+# GitHub_Info
 @JoeWills615
 
-# Email Address
+# Email_Address
 JoeWills615@gmail.com
 
-# Project Images
+# Project_Images
 
 <img src="./images/readme_01.PNG">
 
