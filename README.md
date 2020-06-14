@@ -41,7 +41,3 @@ I don't have any additonal questions right now
 JoeWills615@gmail.com
 
 # Project Images
-
-
-
-
