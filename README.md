@@ -6,12 +6,13 @@ It's important to have a well origanized and informative README file
 attached to your projects
 
 # Table of Contents
-* [Installation] (#installation)
-* [Usage] (#usage)
-* [Lincense] (#license)
-* [Contributing] (#contributing)
-* [Tests] (#tests)
-* [Questions] (#questions)
+* [Installation](#installation)
+* [Usage](#usage)
+* [Lincense](#license)
+* [Contributing](#contributing)
+* [Tests](#tests)
+* [Questions](#questions)
+
 
 # Installation
 Not only do you have to install this on your computer, but you also need to 
