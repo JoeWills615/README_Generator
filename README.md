@@ -9,9 +9,9 @@ This is the name of the project
 * [Contributing](#contributing)
 * [Demo](#demo)
 * [Questions](#questions)
-* [Github Info](#githubinfo)
-* [Email Address](#emailaddress)
-* [Project Images](#projectimages)
+* [Github_Info](#github_info)
+* [Email_Address](#email_address)
+* [Project_Images](#project_images)
 
 # Description
 It's important to have a well origanized and informative README file 
