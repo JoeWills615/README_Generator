@@ -1,20 +1,21 @@
 # README_Generator
 
 # Table of Contents
-  * [Description](#description)
-  * [Installation](#installation)
-  * [Usage](#usage)
-  * [License](#license)
-  * [Contributing](#contributing)
-  * [Demo](#demo)
-  * [Questions](#questions)
-  * [Github_Info](#github_info)
-  * [Email_Address](#email_address)
-  * [Project_Images](#project_images)
-
 
 # Desciption
+
   It's important to have a well organized and informative README file attached to your projects
+=======
+* [Description](#description)
+* [Installation](#installation)
+* [Usage](#usage)
+* [License](#license)
+* [Contributing](#contributing)
+* [Demo](#demo)
+* [Questions](#questions)
+* [Github_Info](#github_info)
+* [Email_Address](#email_address)
+* [Project_Images](#project_images)
 
 # Installation
   You can clone it from Github, open VS Studio, and run the Index.JS file in the terminal
