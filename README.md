@@ -1,4 +1,4 @@
-# jbvdskjbkvjb
+# README_Generator
 
 # Table of Contents
   * [Description](#description)
@@ -14,34 +14,34 @@
 
 
 # Desciption
-  jvsnojvbjbsv
+  It's important to have a well organized and informative README file attached to your projects
 
 # Installation
-  kvnasnojfavsj
+  You can clone it from Github, open VS Studio, and run the Index.JS file in the terminal
 
 # Usage
   Javascript
 
 # License
-  Boost
+  The Unlicense
 
 # Contributing
-  OJVJ;Jsv;jvbv
+  Joe worked on this with help from others
 
 # Demo
-  lvsajbvkj v
+  Yes, the link for the demo is below
 
 # Demo_Link
   [README_Generator Demo](https://drive.google.com/file/d/1L0TKOWWN13dmA5Cysw9s4uufbqDITs5E/view)
 
 # Questions
-  FSJVNOSJFBVSOAJBVS
+  Not at this time
 
 # Github_Info
-  savkj K VK V
+  JoeWills615
 
 # Email_Address
-  JVBKJVB KDV SVK 
+  JoeWills615@gmail.com
 
 # Project_Images
 
