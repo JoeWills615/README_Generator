@@ -12,7 +12,7 @@
 * [Email_Address](#email_address)
 * [Project_Images](#project_images)
 
-# Desciption
+# Description
   It's important to have a well organized and informative README file attached to your projects
 
 # Installation
